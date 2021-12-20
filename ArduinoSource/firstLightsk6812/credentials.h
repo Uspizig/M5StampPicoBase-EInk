@@ -1,5 +1,5 @@
-#define mySSID "wallyweb"
-#define myPASSWORD "fs4burgberg"
+#define mySSID "Xxxxxxx"
+#define myPASSWORD "xxxxxxx"
 #define thingspeak_server "api.thingspeak.com"
 #define thingspeak_api_key "xxxxxxxxxxxxxx"
 
